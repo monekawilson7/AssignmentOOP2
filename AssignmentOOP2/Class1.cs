@@ -11,6 +11,7 @@ namespace AssignmentOOP2
         Guest,
         Developer,
         Secretary,
-        DBA
+        DBA,
+        SecurityOfficer
     }
 }
