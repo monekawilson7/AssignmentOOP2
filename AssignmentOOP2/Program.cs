@@ -32,6 +32,11 @@ namespace AssignmentOOP2
             }
             #endregion
 
+            #region Q2
+            HiringDate hireDate = new HiringDate(10,5,2025);
+            Console.WriteLine("Hiring Date:"+ hireDate.ToString());
+            #endregion
+
         }
     }
 }
